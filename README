@@ -1,0 +1,3 @@
+Copyright for implementation Zachary Mitchell, 2017
+
+This function validates whether a credit card number is in fact real or fake using the Luhn Algorithm.  You can find out more about Luhn's algorithm here: https://en.wikipedia.org/wiki/Luhn_algorithm
